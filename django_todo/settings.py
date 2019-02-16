@@ -28,7 +28,8 @@ DEBUG = True
 
 # Make sure to use your own hostname here, and/or use`127.0.0.1` for
 # localhost
-ALLOWED_HOSTS = ['django-todo-sae2018.c9users.io']
+ALLOWED_HOSTS = ['django-todo-sae2018.c9users.io',
+                'django-todo-list.herokuapp.com']
 
 
 # Application definition
